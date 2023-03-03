@@ -1,12 +1,14 @@
 {
   "3111 4151 1814": {
     "Name": "Akash K P",
-    "Date of Birth": "05/11/2003",
+    "DOB": "05/11/2003",
     "Aadhaar Number": "3111 4151 1814",
     "Sex": "MALE",
-    "ID Type": "Adhaar",
+    "ID Type": "Aadhaar",
     "Address": " S/O: Pundarika, 2-9/201\nARPITHA NILAYA, VIDYA NAGARA, OLD\nGATE, SULLIA, Sulya, Dakshina Kannada,\nKarnataka, 574239",
-    "Document Type": "img"
+    "Fathers Name": " Pundarika",
+    "Enrollment": null,
+    "VID": null
   },
   "3717 4757 7814": {
     "VID": "9173 3046 4881 3620",
@@ -16,8 +18,8 @@
     "Address": "2-9/201 ARPITHA NILAYA\nVIDYA NAGARA\nOLD GATE\nSULLIA\nSulya\nDakshina Kannada Karnataka - 574239\n",
     "Phonenumber": "8861527468",
     "Aadhaar Number": "3717 4757 7814",
-    "Gender": "MALE",
+    "Sex": "MALE",
     "DOB": "05/11/2003",
-    "Document Type": "pdf"
+    "ID Type": "Aadhaar"
   }
 }
